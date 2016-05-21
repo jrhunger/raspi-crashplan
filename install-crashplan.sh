@@ -1,6 +1,7 @@
 #!/bin/bash
 # This is a simple script that installs CrashPlan (from https://www.code42.com)
-# on a Raspberry Pi (3 at least) running Raspbian "Jessie".
+# on a Raspberry Pi.
+# Written/Tested on Rasbperry Pi 3 Model B, running Raspbian Jessie
 #
 # Summary of steps:
 # - Download and unpack CrashPlan Linux tarball
